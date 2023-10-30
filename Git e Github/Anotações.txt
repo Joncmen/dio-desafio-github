@@ -1,0 +1,3 @@
+Conectar com o git através do comando "git clone URLDOREPOSITORIO"
+Sempre que houver alteração no projeto ultilizar git add . (para colocar todas as alterações)
+Depois que adicionar as alterações ultilizar o commit a partir do código git commit -m "nome do novo commit"
